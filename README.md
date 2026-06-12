@@ -10,38 +10,11 @@
 
 ## 💬 Let Me Introduce Myself...
 
-<table>
-<tr>
-<td width="60%">
-
-### 🗨️ A Conversation With Me:
-
-> **You:** Hey, who are you?
->
-> **Saatvik:** Hey! 👋 I'm **Saatvik Bharija** — a **DevOps Advocate** with **5+ years** of experience building things that scale!
->
-> **You:** Cool! What do you do?
->
-> **Saatvik:** I build **production-ready applications** and **scalable cloud infrastructure** ☁️ — basically I automate everything so teams can ship faster! 🚀
->
-> **You:** What are you working on right now?
->
-> **Saatvik:** Great question! 🔭 I'm currently diving deep into **Cloud-Native Solutions**, **Artificial Intelligence**, and **DevOps/Platform Engineering**!
->
-> **You:** Sounds awesome! Can I learn from you?
->
-> **Saatvik:** Absolutely! ⚡ I LOVE sharing knowledge through **training and mentoring**. That's literally my fun fact! 🎓
->
-> **You:** How can we work together?
->
-> **Saatvik:** 👯 I'm always looking to **collaborate on open-source projects** and **DevOps initiatives**! Let's build something epic together! 💪
-
-</td>
-<td width="40%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
 <div align="center">
+<img src="https://raw.githubusercontent.com/bharijaSaatvik/bharijaSaatvik/main/chat-animation.svg" width="100%" alt="Chat with Saatvik"/>
+</div>
+
+---
 
 **💬 Ask me about:**
 
