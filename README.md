@@ -97,3 +97,75 @@
 
 ---
 
+## 🐍 Me, In Code
+
+```python
+#!/usr/bin/env python3
+
+class SaatvikBharija:
+    """A DevOps Advocate who speaks fluent YAML and dreams in Terraform."""
+
+    def __init__(self):
+        self.name           = "Saatvik Bharija"
+        self.role           = "DevOps Advocate | Cloud Architect | Platform Engineer"
+        self.experience     = "5+ years"
+        self.languages      = ["Python", "Bash", "Go", "YAML", "HCL"]
+        self.clouds         = ["AWS", "Azure", "GCP"]
+        self.tools          = ["Terraform", "Kubernetes", "Docker", "Jenkins", "ArgoCD"]
+        self.coffee         = float("inf")
+
+    def current_mission(self):
+        return {
+            "building"      : "Production-ready apps and scalable cloud infra",
+            "exploring"     : "Cloud-Native, AI Solutions, Platform Engineering",
+            "sharing"       : "Knowledge through training and mentoring",
+        }
+
+    def daily_routine(self):
+        return [
+            "06:00 - Coffee.exe started",
+            "07:00 - Blame DNS (it is always DNS)",
+            "08:00 - terraform plan (pray for no red)",
+            "09:00 - kubectl get pods (all green? miracle!)",
+            "17:00 - Push to prod on Friday (living dangerously)",
+            "23:00 - Sleep (dreaming in K8s manifests)",
+        ]
+
+me = SaatvikBharija()
+print(f"Hey! I am {me.name} - Lets build something awesome!")
+```
+
+---
+
+## 🧬 My Identity in YAML
+
+```yaml
+apiVersion: v1
+kind: DevOpsAdvocate
+metadata:
+  name: saatvik-bharija
+  namespace: cloud-universe
+  labels:
+    role: devops-advocate
+    experience: 5-plus-years
+    superpower: yaml-whisperer
+spec:
+  skills:
+    languages: [Python, Bash, Go, HCL, YAML]
+    clouds: [AWS, Azure, GCP]
+    containers: [Docker, Kubernetes, Helm]
+    cicd: [Jenkins, GitHub Actions, ArgoCD]
+    iac: [Terraform, Ansible, CloudFormation]
+    monitoring: [Prometheus, Grafana, Datadog]
+  currentMission:
+    - Cloud-Native Solutions
+    - Artificial Intelligence Solutions
+    - DevOps and Platform Engineering
+  passions:
+    - Building production-ready applications
+    - Scalable cloud infrastructure
+    - Open-source contributions
+    - Training and mentoring
+  status: Always Shipping!
+```
+
