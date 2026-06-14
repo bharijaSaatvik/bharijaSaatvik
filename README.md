@@ -169,3 +169,134 @@ spec:
   status: Always Shipping!
 ```
 
+---
+
+## 🛠️ My Tech Arsenal
+
+<div align="center">
+
+### ☁️ Cloud Platforms
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" alt="Cloud"/>
+
+### 🐳 Containers and Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Containers"/>
+
+### 🔧 Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" alt="IaC"/>
+
+### 🔄 CI/CD and Automation
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&theme=dark" alt="CICD"/>
+
+### 💻 Languages and Scripting
+<img src="https://skillicons.dev/icons?i=python,bash,go,js&theme=dark" alt="Languages"/>
+
+### 📊 Monitoring and Observability
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Monitoring"/>
+
+### 🛠️ Tools and Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vim,nginx,redis,postgres,mongodb&theme=dark" alt="Tools"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bharijaSaatvik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bharijaSaatvik&theme=tokyonight&hide_border=true" alt="Streak"/>
+
+</div>
+
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharijaSaatvik&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Languages"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharijaSaatvik&theme=tokyo-night&hide_border=true&area=true" alt="Activity"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bharijaSaatvik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
+</div>
+
+---
+
+## 🎮 Achievement Unlocked
+
+<div align="center">
+
+| Achievement | Achievement |
+|:-:|:-:|
+| 🐳 Mass Deployer of Containers | 📜 YAML Whisperer |
+| 🔧 Pipeline Plumber Extraordinaire | 💰 Cloud Cost Optimizer |
+| 🚒 Incident Commander (calm under 🔥) | 🎓 Mentor and Knowledge Sharer |
+| 💻 Open-Source Contributor | 🐛 "It Works On My Machine" Debugger |
+| 😱 Terraform State File Survivor | 😬 5+ yrs and still not deleted prod yet |
+
+</div>
+
+---
+
+## 📌 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/bharijaSaatvik/kubestarter">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bharijaSaatvik&repo=kubestarter&theme=tokyonight&hide_border=true" alt="KubeStarter"/>
+</a>
+<a href="https://github.com/bharijaSaatvik/terraform-starter">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bharijaSaatvik&repo=terraform-starter&theme=tokyonight&hide_border=true" alt="TerraformStarter"/>
+</a>
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/saatvik-bharija-86a564159/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**⭐ Star my repos — it's free and makes my CI/CD pipeline smile! 😄**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bharijaSaatvik&color=blueviolet&style=for-the-badge&label=PROFILE+VISITORS" alt="Views"/>
+
+<br/><br/>
+
+**Made with ❤️ and mass amounts of ☕ by [Saatvik Bharija](https://github.com/bharijaSaatvik)**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
